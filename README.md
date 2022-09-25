@@ -9,7 +9,11 @@ The purpose of this analysis is to understand how different campaign performed i
 
 ### Analysis of Outcomes Based on Launch Date
 
+![LaunchDate](https://github.com/bernardinoe/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
 ### Analysis of Outcomes Based on Goals
+
+![Goals](https://github.com/bernardinoe/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Challenges and Difficulties Encountered
 The main challenge is to get familiarized with the data. The best way to overcome it, was to go over the data and understand each column of the transaction. The second challenge was to figure out the format for the date columns. As it was explained on the modules, it needed to be converted. 
