@@ -22,8 +22,9 @@ The main challenge is to get familiarized with the data. The best way to overcom
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Theater has the highest amount of successful outcomes when they launch in May
-December is not a great month to launch a campaign
+Theater has the highest amount of successful outcomes when they launch in May.
+
+December is not a great month to launch a campaign.
 
 - What can you conclude about the Outcomes based on Goals?
 
